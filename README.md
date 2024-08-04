@@ -104,7 +104,6 @@ output always connected to either VDD or VSS.
 ![1719184242276](https://github.com/user-attachments/assets/e89fad23-2f36-4cb9-9089-111d403ab9df)
 
 <br>
-<br>
 <h2>XII. Conclusion :</h2>
 
 Despite certain design and speed limitations, their low energy consumption, high efficiency, and excellent noise immunity make CMOS inverters the technology of choice for current and future high-density, high-performance electronic integrated circuit designs. With the continuous advancement and innovation of technology, it is expected that CMOS inverters will continue to play an increasingly important role in key fields such as microprocessors, storage devices, and communication systems, promoting the development of modern electronic equipment to a higher technical level.
