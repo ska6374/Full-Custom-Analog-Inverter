@@ -43,6 +43,7 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <h2>VI. Symbol Genarate :</h2>
 
 ![Screenshot-2](https://github.com/user-attachments/assets/34dcfbde-b20f-4ebe-a007-2aeafef31c3c)
+
 <br>
 <br>
 <br>
@@ -72,6 +73,8 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <h2>VIII. Propagation Delay :</h2>
 
 It is time taken for be output to discharge from logic high 50% of fixed value or we can also defination as time taken by output charge from logic '0' value to be 50% of switch maximum value.
+
+
 
 ![WhatsApp Image 2024-07-16 at 16 20 51_6aadb7d9](https://github.com/user-attachments/assets/8423ccfd-ef12-4def-a6c5-d193bf09dba5)
 <br>
