@@ -1,4 +1,4 @@
-# full Custom Analog Inverter Design using Cadence EDA Tools
+# Full Custom Analog Inverter Design using Cadence EDA Tools
 Full custom ASIC design defines all the photolithographic layers of the devices. Full-custom design is used for both ASIC design and for standard product design.
 
 The Advantages of full-custom design include-<br>1. Reduced area, performance improvements.
