@@ -96,6 +96,7 @@ output always connected to either VDD or VSS.
 
 <h2>XI. CMOS Inverter Layout :</h2>
 
+
 ![Screenshot-6](https://github.com/user-attachments/assets/d74a5e55-a4b2-4f78-83d6-4b0bc66c3cce)
 <br>
 <br>
