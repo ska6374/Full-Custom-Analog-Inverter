@@ -31,8 +31,6 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <h2>IV. CMOS Inverter Schematic :</h2>
 
 ![1719150544049](https://github.com/user-attachments/assets/bb20cffe-0b12-4dc4-bb82-3774492116df)
-
-<br>
 <br>
 <h2>V. Working Principle :</h2>
 
