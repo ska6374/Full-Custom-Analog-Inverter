@@ -32,6 +32,7 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 
 ![1719150544049](https://github.com/user-attachments/assets/bb20cffe-0b12-4dc4-bb82-3774492116df)
 <br>
+<BR>
 <h2>V. Working Principle :</h2>
 
 • CMOS circuit uses both P-type and N-type transistors to create logic functions, which are essential components in designing integrated circuits. The signal that turns ON one type of transistor can also turn OFF another type of transistor.
@@ -48,7 +49,6 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 
 ![1719122005348](https://github.com/user-attachments/assets/8fef94e6-8af4-476c-b2bb-25d1b1dde974)
 
-<br>
 <br>
 <br>
 • Towards the rails one of the transistor is cut-off and the other is in linear region.
@@ -69,12 +69,10 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <br>• Switching Threshold, VM is the point where Vin=Vout.
 <br>• Graphically it calculated at intersection point of Vin curve with Vout curve.
 <br>
-
+<BR>
 <h2>VIII. Propagation Delay :</h2>
 
 It is time taken for be output to discharge from logic high 50% of fixed value or we can also defination as time taken by output charge from logic '0' value to be 50% of switch maximum value.
-
-
 
 ![Screenshot (139)](https://github.com/user-attachments/assets/9177b607-1c58-4941-b6b7-adad5016cfc0)
 
@@ -85,7 +83,8 @@ It is time taken for be output to discharge from logic high 50% of fixed value o
 <br>• Increasing Power Supply
 <br>• Increasing W
 <br>• Reducing CL
-
+<BR>
+<BR>
 <h2>X. Static CMOS properties : </h2>
 
 Basic inverter belongs to class of static circuits
@@ -97,13 +96,13 @@ output always connected to either VDD or VSS.
 <br>• Extremely high input impedance.
 <br>• No static power dissipation.
 <br>• Good noise properties/margins.
-
+<BR>
+<BR>
 <h2>XI. CMOS Inverter Layout :</h2>
 
 
 ![1719184242276](https://github.com/user-attachments/assets/e89fad23-2f36-4cb9-9089-111d403ab9df)
 
-<br>
 <br>
 <br>
 <h2>XII. Conclusion :</h2>
