@@ -30,8 +30,8 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 
 <h2>IV. CMOS Inverter Schematic :</h2>
 
-![1719150544049](https://github.com/user-attachments/assets/a531c9ea-7641-4185-9e94-f2b781cf15a7)
-<br>
+![1719150544049](https://github.com/user-attachments/assets/bb20cffe-0b12-4dc4-bb82-3774492116df)
+
 <br>
 <br>
 <h2>V. Working Principle :</h2>
@@ -42,14 +42,14 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <br>
 <h2>VI. Symbol Genarate :</h2>
 
-![Screenshot-2](https://github.com/user-attachments/assets/34dcfbde-b20f-4ebe-a007-2aeafef31c3c)
-
+![1719100416459](https://github.com/user-attachments/assets/60641c8a-65b9-4f6a-a454-7c638f4e35bc)
 <br>
 <br>
 <br>
 <h2>VII. Transient Analysis :</h2>
 
-![Screenshot-4](https://github.com/user-attachments/assets/16191248-7ba3-431d-8c24-dba78239f2bb)
+![1719122005348](https://github.com/user-attachments/assets/8fef94e6-8af4-476c-b2bb-25d1b1dde974)
+
 <br>
 <br>
 <br>
@@ -61,7 +61,9 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <br>
 <br>
 <br>
-![Screenshot-5](https://github.com/user-attachments/assets/c07ff67a-f214-4b22-b49d-b60ea5b09655)
+
+![1719133644577](https://github.com/user-attachments/assets/4f74b137-234a-45f9-8779-567d1dc7f79c)
+
 <br>
 <br>
 <br>
@@ -76,7 +78,8 @@ It is time taken for be output to discharge from logic high 50% of fixed value o
 
 
 
-![WhatsApp Image 2024-07-16 at 16 20 51_6aadb7d9](https://github.com/user-attachments/assets/8423ccfd-ef12-4def-a6c5-d193bf09dba5)
+![Screenshot (139)](https://github.com/user-attachments/assets/9177b607-1c58-4941-b6b7-adad5016cfc0)
+
 <br>
 <br>
 <br>
@@ -100,7 +103,8 @@ output always connected to either VDD or VSS.
 <h2>XI. CMOS Inverter Layout :</h2>
 
 
-![Screenshot-6](https://github.com/user-attachments/assets/d74a5e55-a4b2-4f78-83d6-4b0bc66c3cce)
+![1719184242276](https://github.com/user-attachments/assets/e89fad23-2f36-4cb9-9089-111d403ab9df)
+
 <br>
 <br>
 <br>
