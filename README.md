@@ -70,35 +70,9 @@ The Advantages of full-custom design include-<br>1. Reduced area, performance im
 <br>• Graphically it calculated at intersection point of Vin curve with Vout curve.
 <br>
 <BR>
-<h2>VIII. Propagation Delay :</h2>
 
-It is time taken for be output to discharge from logic high 50% of fixed value or we can also defination as time taken by output charge from logic '0' value to be 50% of switch maximum value.
 
-![Screenshot (139)](https://github.com/user-attachments/assets/9177b607-1c58-4941-b6b7-adad5016cfc0)
-
-<br>
-<br>
-<br>
-<h2>IX. The Propagation Delay can be Reduced by :</h2>
-<br>• Increasing Power Supply
-<br>• Increasing W
-<br>• Reducing CL
-<BR>
-<BR>
-<h2>X. Static CMOS properties : </h2>
-
-Basic inverter belongs to class of static circuits
-output always connected to either VDD or VSS.
-
-• Rail to rail voltage swing.
-<br>• Ratio less design.
-<br>• Low output impedance.
-<br>• Extremely high input impedance.
-<br>• No static power dissipation.
-<br>• Good noise properties/margins.
-<BR>
-<BR>
-<h2>XI. CMOS Inverter Layout :</h2>
+<h2>VIII. CMOS Inverter Layout :</h2>
 
 
 ![1719184242276](https://github.com/user-attachments/assets/e89fad23-2f36-4cb9-9089-111d403ab9df)
